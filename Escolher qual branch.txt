@@ -1,0 +1,6 @@
+# Seleciona a branch para trabalhar
+
+git checkout <nome da branch>
+
+# git checkout master  -  Para retornar ao master
+# git branch -d  <nome da branch>  - Para deletar uma branch
