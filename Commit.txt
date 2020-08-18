@@ -1,0 +1,3 @@
+# A mensagem entre " " é dada para que outros usuários possam ler a mensagem e entender as alterações que foram feitas.
+
+git commit -m "COMENTÁRIO" 

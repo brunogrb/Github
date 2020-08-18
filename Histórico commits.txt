@@ -1,0 +1,3 @@
+# Comando para ver o histórico de commits realizados nos arquivos.
+
+git log

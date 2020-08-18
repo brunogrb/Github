@@ -1,0 +1,3 @@
+#comando para adcionar arquivos
+
+git add <local>  #no lugar de local substituir com o nome do arquivo ou usar "." para adcionar todos os arquivos do diretório

@@ -1,0 +1,3 @@
+$ Clona o repositório desejável
+
+git clone <remote_repository_URL>

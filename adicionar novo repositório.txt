@@ -1,0 +1,3 @@
+#Estabelece um novo repositório remoto
+
+git remote add origin <URL com o repositório github>

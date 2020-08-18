@@ -1,0 +1,3 @@
+#Comando para inciar (criar) um git
+
+git init

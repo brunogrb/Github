@@ -1,0 +1,3 @@
+#lista todos os arquivos novos ou modificados para commit (comentário sobre o que é o arquivo / ou a alteração que foi feita no arquivo)
+
+git status

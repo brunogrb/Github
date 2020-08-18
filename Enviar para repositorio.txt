@@ -1,0 +1,3 @@
+# Push para origem ( envia as alterações com os commits para o repositório (GitHub) )
+
+git push -u origin master

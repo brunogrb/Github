@@ -1,0 +1,3 @@
+# Lista as conexões remotas que há com outros repositórios
+
+git remote -v
