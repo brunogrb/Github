@@ -1,0 +1,3 @@
+# Mostra todos os commits realizados 
+
+git log <nome do arquivo>   # O nome do arquivo é opcional - caso colocado o nome, irá mostrar somente os commits daquele arquivo.

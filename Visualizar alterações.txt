@@ -1,0 +1,3 @@
+# Comando para visualizar as alterações realizadas em um arquivo (commit)
+
+git show <nome do commit>
